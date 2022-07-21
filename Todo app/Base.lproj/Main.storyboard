@@ -26,6 +26,12 @@
                                 <string key="reuseIdentifier">reuseIdentifier
 </string>
                             </tableViewCell>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iIE-IZ-WSN">
+                                <rect key="frame" x="174" y="478" width="67" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="GYz-Gn-rYT"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
